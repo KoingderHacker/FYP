@@ -103,7 +103,7 @@ Open a terminal at the project root:
 
 ```powershell
 cd frontend
-npm ci
+npm install
 ```
 
 Return to the project root when needed:
