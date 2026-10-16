@@ -1,0 +1,17 @@
+{
+  "request_id": "weather_manual_001",
+  "timestamp": "2026-10-01T14:00:00",
+  "location": "Gujarat",
+  "horizon": {
+    "name": "weather_quality",
+    "hours": 0
+  },
+  "data": {
+    "source": "data/weather/raw/dataset.csv"
+  },
+  "config": {
+    "run_llm": false,
+    "output_path": "data/weather/processed/weather_cleaned_dataset.csv",
+    "report_path": "reports/weather/weather_report.json"
+  }
+}

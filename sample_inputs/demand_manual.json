@@ -1,0 +1,8 @@
+{
+  "request_id": "demand_test_001",
+  "timestamp": "2026-10-02T15:00:00",
+  "location": "Gujarat",
+  "horizon": {"name": "1d", "hours": 24},
+  "data": {"source": "data/demand/raw/gujarat_hourly_demand_estimated.csv"},
+  "config": {"save_output": true}
+}

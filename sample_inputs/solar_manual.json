@@ -1,0 +1,17 @@
+{
+  "request_id": "solar_test_001",
+  "timestamp": "2026-10-02T12:00:00",
+  "location": "Gujarat",
+  "horizon": {
+    "name": "1_day",
+    "hours": 24
+  },
+  "data": {
+    "source": "data/weather/processed/weather_cleaned_dataset.csv",
+    "forecast_origin": "2026-07-01 23:00:00"
+  },
+  "config": {
+    "save_output": true,
+    "output_path": "reports/solar/latest_forecast.json"
+  }
+}

@@ -1,0 +1,5 @@
+BATTERY_CAPACITY_MU = 1.0
+MAX_CHARGE_RATE_MU = 0.2
+MAX_DISCHARGE_RATE_MU = 0.2
+INITIAL_SOC_PCT = 50.0
+OBJECTIVE = "minimize_grid_import_and_ramp_rate"
